@@ -6,6 +6,6 @@ file_folder 181410004
 | readme.md
 | file_folder Algoritma
 || array.cpp
-| file_folder 
-| file_folder 
-| file_folder 
+| file_folder STD1
+| file_folder STD2
+| file_folder SBDL
