@@ -6,7 +6,7 @@
 -Email: rizkiar111299@gmail.com
 ```
 # Course
-```Python
+```html
 -Informatika 2A
 -struktur Data 1
 ```
