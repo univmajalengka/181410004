@@ -7,5 +7,6 @@
 ```
 # Course
 ```Python
+-Informatika 2A
 -struktur Data 1
 ```
