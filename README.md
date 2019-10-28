@@ -7,6 +7,6 @@
 ```
 # Course
 ```html
--Informatika 2A
--struktur Data 1
+-Informatika 3A
+-struktur Data 2
 ```
